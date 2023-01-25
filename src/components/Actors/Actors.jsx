@@ -4,7 +4,9 @@ const Actors = () => {
   console.log('Actors');
 
   return (
-    <div>Actors</div>
+    <div>
+      Actors
+    </div>
   );
 };
 

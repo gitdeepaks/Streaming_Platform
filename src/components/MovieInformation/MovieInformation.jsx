@@ -4,8 +4,11 @@ const MovieInformation = () => {
   console.log('Movie Information');
 
   return (
-    <div>MovieInformation</div>
+    <div>
+      MovieInformation
+    </div>
   );
 };
 
 export default MovieInformation;
+
